@@ -7,9 +7,9 @@ Streamlit App Interface: A user-friendly Streamlit application for easy interact
 ## Usage
 Clone the repository: git clone https://github.com/Vinod-14/Gemini_Pro_Model
 Navigate to the project directory: cd your-repo
-Install dependencies: pip install -r requirements.txt (if you have a requirements file)
-Run the Streamlit app: streamlit run your_app.py
-Feel free to explore, experiment, and contribute to make this project even better!
+Install dependencies: pip install -r requirements.txt 
+Run the Streamlit app: streamlit run app.py
+
 
 # Requirements
 Python 3.10
