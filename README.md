@@ -12,6 +12,6 @@ Run the Streamlit app: streamlit run your_app.py
 Feel free to explore, experiment, and contribute to make this project even better!
 
 # Requirements
-Python 3.x
+Python 3.10
 Streamlit
-Other dependencies (mention them if applicable)
+
